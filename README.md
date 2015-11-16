@@ -1,4 +1,11 @@
-#This
+#Read First
+
+This repository comes from [arrayOperations](https://github.com/adam-hanna/arrayOperations)
+
+Docs are listed at [docs](https://github.com/Golang-Commons/dos)
+
+---
+
 
 # arrayOperations
 Small library for performing union, intersect, difference and distinct operations on arrays in goLang
